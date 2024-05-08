@@ -15,3 +15,5 @@ with pattern being a regex(p) pattern and path being the directory you want to c
 the program spits out a file called "amalgam.txt" in the directory you ran it in
 
 many files were harmed in the making of this software
+
+![image](https://github.com/crckrberries/amalgam/assets/62842920/50b5f4cf-af22-46c3-af66-cd7740004286)
